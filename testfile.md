@@ -1,2 +1,2 @@
 Some test file craeated from develop branch 
-Added 2nd line from develop branch
+Checked second line
